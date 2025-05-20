@@ -43,7 +43,7 @@ Below is an example configuration file for database connections:
 
 ```bash
 git clone https://github.com/Puttipongpn/PostgresToSqlServerMigrator.git
-cd sync-occ-sqlserver
+cd PostgresToSqlServerMigrator
 ```
 
 ### 2. Configure Connections
