@@ -1,11 +1,11 @@
 # SYNC-OCC-SQLSERVER-MAIN
 
 A .NET Core console application to **sync data from PostgreSQL to SQL Server**. Designed for batch processing, optional table creation, and configurable table lists for both ERM and OCC systems.
-"""
+
 Project Status: Under Development
 This project is currently in the development phase and is intended for educational purposes only. 
 Please note that the code has not yet been optimized or refined for general usability.
-"""
+
 ---
 
 ## ✨ Features
